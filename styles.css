@@ -1,0 +1,18 @@
+#cabecera{
+    
+    color: teal
+
+}
+.texto{
+    color:palevioletred
+}
+#promocional{
+    color: #8b8b8bcc
+}
+.button{
+    background-color: #025157;
+    color: lightcoral;
+}
+body{
+    background-color: #fffbf7 ;
+}
